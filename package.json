@@ -1,14 +1,12 @@
 {
   "name": "sass-generator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a generator for sass project",
   "main": "index.js",
   "scripts": {},
   "bin": {
     "start-html-conversion": "./index.js"
   },
-  
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "commander": "^2.12.2",
@@ -16,5 +14,22 @@
     "readline": "^1.3.0",
     "sorted-object": "^2.0.1",
     "user": "0.0.0"
-  }
+  },
+  "author": "sibymathew2014@gmail.com",
+  "bugs": {
+    "url": "https://github.com/sibymathew2014/sassg-enerator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibymathew2014/sassg-enerator.git"
+  },
+  "keywords": [
+    "sass",
+    "generator",
+    "html",
+    "html conversion",
+    "css preprocessors",
+    "preprocessers"
+  ],
+  "homepage": "https://github.com/sibymathew2014/sassg-enerator#readme"
 }
